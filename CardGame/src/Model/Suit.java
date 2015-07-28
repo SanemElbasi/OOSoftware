@@ -1,5 +1,10 @@
 package Model;
 
-public class Suit {
-
+public enum Suit {
+	
+	Clubs,
+	Diamonds,
+	Spades,
+	Hearts,
+	
 }
