@@ -24,6 +24,7 @@ public class Card extends Observable{
 		}else{
 			specialty = "None";
 		}
+		System.out.println("Seni çok seviyorum");
 		
 	}
 	
